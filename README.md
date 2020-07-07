@@ -1,5 +1,3 @@
-# Scanner SDK for Windows
-
 ## END USER LICENSE AGREEMENT
 #### (RESTRICTED SOFTWARE)
 
